@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular JS**
 
-- 👨‍💻 All of my projects are available at [https://zahrann.vercel.app/](https://zahrann.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://zahrann.vercel.app/](https://zahrann.vercel.app/)](https://zahran88.github.io/portofolio/)
 
 - 💬 Ask me about **react , js , css , bs , vue js**
 
